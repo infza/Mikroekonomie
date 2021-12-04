@@ -19,7 +19,7 @@
 | 10     | :heavy_check_mark: Hotovo        |          |
 | 11     | :construction: Zpracovává se     |          |
 | 12     | :pushpin: Připraveno ke kontrole |          |
-| 13     | :construction: Zpracovává se     |          |
+| 13     | :heavy_check_mark: Hotovo        |          |
 | 14     | :construction: Zpracovává se     |          |
 | 15     | :construction: Zpracovává se     |          |
 | 16     | :heavy_check_mark: Hotovo        |          |
