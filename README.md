@@ -22,7 +22,7 @@
 | 13     | :construction: Zpracovává se     |          |
 | 14     | :construction: Zpracovává se     |          |
 | 15     | :construction: Zpracovává se     |          |
-| 16     | :construction: Zpracovává se     |          |
+| 16     | :heavy_check_mark: Hotovo        |          |
 
 | Legenda                          |
 | :------------------------------- |
