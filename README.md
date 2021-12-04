@@ -11,7 +11,7 @@
 | 02     | :heavy_check_mark: Hotovo        |          |
 | 03     | :heavy_check_mark: Hotovo        |          |
 | 04     | :heavy_check_mark: Hotovo        |          |
-| 05     | :construction: Zpracovává se     |          |
+| 05     | :heavy_check_mark: Hotovo        |          |
 | 06     | :heavy_check_mark: Hotovo        |          |
 | 07     | :heavy_check_mark: Hotovo        |          |
 | 08     | :heavy_check_mark: Hotovo        |          |
