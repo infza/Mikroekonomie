@@ -18,7 +18,7 @@
 | 09     | :heavy_check_mark: Hotovo         |          |
 | 10     | :heavy_check_mark: Hotovo         |          |
 | 11     | :heavy_check_mark: Hotovo         |          |
-| 12     | :pushpin: Připraveno ke kontrole  |          |
+| 12     | :construction: Zpracovává se      |          |
 | 13     | :heavy_check_mark: Hotovo         |          |
 | 14     | :pushpin: Potreba dopracovat(NVZ) |          |
 | 15     | :pushpin: Potreba dopracovat(NVZ) |          |
